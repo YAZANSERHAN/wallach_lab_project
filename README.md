@@ -12,7 +12,7 @@ Author: Yazan Sarhan. Supervisor: Dr. Avner Wallach.
 | --- | --- |
 | `firmware/` | Arduino sketch for the Grand Central M4 |
 | `hardware/` | Fusion Electronics schematic and board files, Gerbers, bill of materials |
-| `docs/` | Final report (PDF), schematic and PCB images, oscilloscope measurements |
+| `docs/` | Final report and final presentation (PDF), schematic and PCB images, oscilloscope measurements |
 
 ## Stimulus modes
 
